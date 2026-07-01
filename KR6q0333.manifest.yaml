@@ -1,0 +1,475 @@
+canonical_identifier: bkk:krp/KR6q0333/v1
+canonical_location: https://kanripo.org/bkk/KR6q0333/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 高峰原妙禪師語錄
+  identifiers:
+    alt_id:
+    - X70n1400
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1400.xml
+    old_id: X70n1400
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0333_000.yaml, hash: 'sha256:4ce96ed3e2f454d5fa281f5b98a779954993559de7e524eac0adf94f12729a82'}
+  - {seq: 1, filename: KR6q0333_001.yaml, hash: 'sha256:dddcc52ab59ed9536a827c85e476ffe9c68f6d613a773a3479126b737ee8e159'}
+  - {seq: 2, filename: KR6q0333_002.yaml, hash: 'sha256:4a004c1e73253d8456b21d9934e9fe4956b9cdb927250bae4eaa98115b5865d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0333_000.markers.yaml, hash: 'sha256:bf6259113301a91e603f1c4b40c3d52365a4da43f68ae7b0453516931abcaf64'}
+  - {seq: 1, role: markers, filename: assets/KR6q0333_001.markers.yaml, hash: 'sha256:ad5f95d42690ab036cc4087aff51a41417905b12da822f8ca80ed6726f2391c0'}
+  - {seq: 2, role: markers, filename: assets/KR6q0333_002.markers.yaml, hash: 'sha256:bde26a87a1032e07c59aae4ae7a97f3ca08e3e4eeebaddb94e3505ffb927175d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0333_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1400-A 元高峰大師語錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0333_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18463
+  label: 高峰大師語錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0333_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 湖州雙髻庵法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0333_X_001-mulu-2
+    span:
+    - body
+    - 1129
+    - 1129
+  label: 杭州西天目山師子禪寺法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0333_X_001-mulu-3
+    span:
+    - body
+    - 10084
+    - 10084
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 12526
+  label: 高峯大師語錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-2
+    span:
+    - body
+    - 3376
+    - 3376
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-3
+    span:
+    - body
+    - 5727
+    - 5727
+  label: 補遺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-4
+    span:
+    - body
+    - 7103
+    - 7103
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-5
+    span:
+    - body
+    - 7105
+    - 7105
+  label: 頌趙州無字示陳太尉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-6
+    span:
+    - body
+    - 7142
+    - 7142
+  label: 示如法禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-7
+    span:
+    - body
+    - 7231
+    - 7231
+  label: 示如夢禪人行脚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-8
+    span:
+    - body
+    - 7294
+    - 7294
+  label: 山中四威儀供佛鑑師翁韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-9
+    span:
+    - body
+    - 7369
+    - 7369
+  label: 雲庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-10
+    span:
+    - body
+    - 7399
+    - 7399
+  label: 示徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-11
+    span:
+    - body
+    - 7485
+    - 7485
+  label: 又示徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-12
+    span:
+    - body
+    - 7516
+    - 7516
+  label: 示湻謙首座持鉢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-13
+    span:
+    - body
+    - 7574
+    - 7574
+  label: 示徒三戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-14
+    span:
+    - body
+    - 7614
+    - 7614
+  label: 辭世
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-15
+    span:
+    - body
+    - 7636
+    - 7636
+  label: 小佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-16
+    span:
+    - body
+    - 7639
+    - 7639
+  label: 若瓊上座火
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-17
+    span:
+    - body
+    - 7684
+    - 7684
+  label: 志足淨人火
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-18
+    span:
+    - body
+    - 7715
+    - 7715
+  label: 志藏淨人煅骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-19
+    span:
+    - body
+    - 7750
+    - 7750
+  label: 二正煅座煆骨(一人齒不壞)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-20
+    span:
+    - body
+    - 7793
+    - 7793
+  label: 志光居士火(吳士)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-21
+    span:
+    - body
+    - 7833
+    - 7833
+  label: 廣捨上座煅骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-22
+    span:
+    - body
+    - 7868
+    - 7868
+  label: 明山都管火
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-23
+    span:
+    - body
+    - 7918
+    - 7918
+  label: 志明道人火
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-24
+    span:
+    - body
+    - 7951
+    - 7951
+  label: 得意化主入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-25
+    span:
+    - body
+    - 7996
+    - 7996
+  label: 法曇上座火
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-26
+    span:
+    - body
+    - 8027
+    - 8027
+  label: 讚佛祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-27
+    span:
+    - body
+    - 8030
+    - 8030
+  label: 觀音大士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-28
+    span:
+    - body
+    - 8071
+    - 8071
+  label: 達磨祖師(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-29
+    span:
+    - body
+    - 8103
+    - 8103
+  label: 三空請讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-30
+    span:
+    - body
+    - 8140
+    - 8140
+  label: 自讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-31
+    span:
+    - body
+    - 8142
+    - 8142
+  label: 師子院明初院主請
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-32
+    span:
+    - body
+    - 8225
+    - 8225
+  label: 大覺禪師祖雍長老請
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-33
+    span:
+    - body
+    - 8294
+    - 8294
+  label: 西隱接待師立山主請(地名西馬塍)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-34
+    span:
+    - body
+    - 8363
+    - 8363
+  label: 雙髻禪庵請
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-35
+    span:
+    - body
+    - 8403
+    - 8403
+  label: 禪人請讚(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-36
+    span:
+    - body
+    - 8452
+    - 8452
+  label: No. 1400-B 行狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-37
+    span:
+    - body
+    - 8624
+    - 8624
+  label: No. 1400-C 行狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0333_X_002-mulu-38
+    span:
+    - body
+    - 11201
+    - 11201
+  label: No. 1400-D 塔銘
+  type: mulu
+  level: 1
+hash: sha256:3d59d6edc4a610b583b76352146627f5e757eb4e3a3c8c3eeb2bfab9315d3f65
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
