@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0333/v1
 canonical_location: https://kanripo.org/bkk/KR6q0333/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 高峰原妙禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0333_000.yaml, hash: 'sha256:ad25f1d77cba988d30b83e26023378905ca35d24211f696bc2a1b09ec3fe96a6'}
-  - {seq: 1, filename: KR6q0333_001.yaml, hash: 'sha256:ae213314392f78d909a30a112717142bce2525931bd22bd33c2848a01c0fd17c'}
-  - {seq: 2, filename: KR6q0333_002.yaml, hash: 'sha256:0f85baeff38ba0e2636edec01134a36d7b28a96213d9452c8065b8041a86ffda'}
+  - {seq: 0, filename: KR6q0333_000.yaml, hash: 'sha256:4ce96ed3e2f454d5fa281f5b98a779954993559de7e524eac0adf94f12729a82'}
+  - {seq: 1, filename: KR6q0333_001.yaml, hash: 'sha256:a51ea9767de71d3bb1fc278b06f518d5eafe140cd656f53d0b4d203507b38add'}
+  - {seq: 2, filename: KR6q0333_002.yaml, hash: 'sha256:ef1febad2df206276d5776181078a272fd3df8291eb5fa730a7e784accfd53b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0333_000.markers.yaml, hash: 'sha256:12a599913ad8e70b17e1d7075750d9dd76dc5d883f4fc7f0b7f4ee54f5fd9ff2'}
-  - {seq: 1, role: markers, filename: assets/KR6q0333_001.markers.yaml, hash: 'sha256:5db33b83fba62aba6a5c7b7a2e0d08972096d4ad82a00527888995d6c80c0a1e'}
-  - {seq: 2, role: markers, filename: assets/KR6q0333_002.markers.yaml, hash: 'sha256:7c02b305bce50962f88d62a40d56968684a5bd9b545f9b417562cf9ba99dfdf2'}
+  - {seq: 0, role: markers, filename: assets/KR6q0333_000.markers.yaml, hash: 'sha256:5202a4ce6f77dc43230d347003374d932ce0238462e5393889e6c27df7b9537f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0333_001.markers.yaml, hash: 'sha256:96db533569686f66c21cfe8b2924073fa93f9bc602fce45d78a80eb140147057'}
+  - {seq: 2, role: markers, filename: assets/KR6q0333_002.markers.yaml, hash: 'sha256:a877a6d4271d223df511fdf714609b735d20bfc02cde41e6a4684ad5c68b32fc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -469,4 +469,7 @@ table_of_contents:
   label: No. 1400-D 塔銘
   type: mulu
   level: 1
-hash: sha256:068c51300883c00495ae4152465922862877b332cec8335bb4a002dfe51e7220
+hash: sha256:d62b7f44a96976e700be2414ea7fda4d614ffbfe1d35dab17ee57b04be25fcb1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
