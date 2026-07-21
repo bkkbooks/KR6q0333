@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0333_000.yaml, hash: 'sha256:4ce96ed3e2f454d5fa281f5b98a779954993559de7e524eac0adf94f12729a82'}
+  - {seq: 0, filename: KR6q0333_000.yaml, hash: 'sha256:589720267f5cf35c4d7d1c0596194c674c3e0ae5d9f438f8d9f674d125bcd706'}
   - {seq: 1, filename: KR6q0333_001.yaml, hash: 'sha256:a51ea9767de71d3bb1fc278b06f518d5eafe140cd656f53d0b4d203507b38add'}
   - {seq: 2, filename: KR6q0333_002.yaml, hash: 'sha256:ef1febad2df206276d5776181078a272fd3df8291eb5fa730a7e784accfd53b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0333_000.markers.yaml, hash: 'sha256:5202a4ce6f77dc43230d347003374d932ce0238462e5393889e6c27df7b9537f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0333_000.markers.yaml, hash: 'sha256:900cfb81652bba47e5a4b471a14d601d00a983646d5e3d8047b1aec5cc450ecf'}
   - {seq: 1, role: markers, filename: assets/KR6q0333_001.markers.yaml, hash: 'sha256:96db533569686f66c21cfe8b2924073fa93f9bc602fce45d78a80eb140147057'}
   - {seq: 2, role: markers, filename: assets/KR6q0333_002.markers.yaml, hash: 'sha256:a877a6d4271d223df511fdf714609b735d20bfc02cde41e6a4684ad5c68b32fc'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0333_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1400-A 元高峰大師語錄序
@@ -469,7 +469,7 @@ table_of_contents:
   label: No. 1400-D 塔銘
   type: mulu
   level: 1
-hash: sha256:d62b7f44a96976e700be2414ea7fda4d614ffbfe1d35dab17ee57b04be25fcb1
+hash: sha256:1391737abceef1084421ff0b586230f7de508d27c4720065e4258c9b2665a7d0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
